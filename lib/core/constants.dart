@@ -1,0 +1,17 @@
+const kPreco = "Preço do piso";
+const kReais = "Reais";
+const kRoomHeader = "Dimensão do Comodo";
+const kFloorHeader = "Dimensão do Piso";
+const kWidth = "Largura";
+const kLength = "Comprimento";
+const kMeters = "Metros";
+const kCentimeters = "Centimetros";
+const kFlor = "Pisos";
+const kSqrMeters = "m²";
+const kAlertName = "Resultados";
+const kAmountFloors = "Quantidade de pisos";
+const kAmountFloorsToFooter = "Quantidade de pisos para o rodapé";
+const kTotalFloor = "Total de pisos";
+const kAreaWithFooter = "Metragem Quadrada com rodapé";
+const kAreaWithoutFooter = "Metragem quadrada sem rodapé";
+const kAmountPrice = "Valor total dos pisos";
